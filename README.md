@@ -1,3 +1,3 @@
 # hello
 this is the sample repo.
-created by Shivansh.
+created by Shivansh
